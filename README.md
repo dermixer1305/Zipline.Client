@@ -1,6 +1,6 @@
 # Zipline.Client
 
-A .NET client for the Zipline API.
+A .NET client for the Zipline API. See Zipline: https://zipline.diced.sh
 
 ## Features
 - Typed interfaces for auth, user, server, uploads, and misc endpoints
